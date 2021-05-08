@@ -50,13 +50,23 @@ Win register: https://docs.microsoft.com/en-us/troubleshoot/windows-server/perfo
 
 Introduction To Reverse Engineering | Beginners: https://youtube.com/playlist?list=PLMB3ddm5Yvh3gf_iev78YP5EPzkA3nPdL
 
+Training By Ricardo Narvaja: 
+
+http://ricardonarvaja.info/WEB/EXPLOITING%20Y%20REVERSING%20USANDO%20HERRAMIENTAS%20FREE/INGLES/
+
+
 ## WinDbg and x86 Architecture
 
+x86 Architecture: https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/x86-architecture
 
+Intermediate Intel x86: https://opensecuritytraining.info/IntermediateX86.html
 
 ## Exploiting Stack Overflows
 
-
+Understanding & Exploiting: https://sghosh2402.medium.com/understanding-exploiting-stack-based-buffer-overflows-acf9b8659cba
+Intro Exploiting 1: https://www.fuzzysecurity.com/tutorials/expDev/1.html
+Intro Exploiting 2: https://www.fuzzysecurity.com/tutorials/expDev/2.html
+Intro Exploiting 3: 
 
 ## Exploiting SEH Overflows
 
