@@ -64,8 +64,11 @@ Intermediate Intel x86: https://opensecuritytraining.info/IntermediateX86.html
 ## Exploiting Stack Overflows
 
 Understanding & Exploiting: https://sghosh2402.medium.com/understanding-exploiting-stack-based-buffer-overflows-acf9b8659cba
+
 Intro Exploiting 1: https://www.fuzzysecurity.com/tutorials/expDev/1.html
+
 Intro Exploiting 2: https://www.fuzzysecurity.com/tutorials/expDev/2.html
+
 Intro Exploiting 3: 
 
 ## Exploiting SEH Overflows
