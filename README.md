@@ -26,7 +26,7 @@ This guide was born as a result of my interest in obtaining previous knowledge b
 * [Stack Overflows and DEP Bypass](#DEP-Bypass)
 * [Stack Overflows and ASLR Bypass](#ASLR-Bypass)
 * [Overwriting EIP with Format Strings](#Overwriting-EIP)
-* [ROP chains and Rop playloads decoders](*ROP-chains-and-Rop-playloads-decoders)
+* [ROP chains and Rop playloads decoders](#ROP-chains-and-Rop-playloads-decoders)
 
 ## Programming languages
 
@@ -103,7 +103,7 @@ http://www.fuzzysecurity.com/tutorials/expDev/4.html
 https://www.securitysift.com/windows-exploit-development-part-5-locating-shellcode-egghunting/
 
 
-## Custom Shellcode
+## Shellcode
 
 http://www.hick.org/code/skape/papers/win32-shellcode.pdf
 
@@ -116,16 +116,16 @@ http://www.fuzzysecurity.com/tutorials/expDev/6.html
 http://sh3llc0d3r.com/windows-reverse-shell-shellcode-i/
 
 
-## Stack Overflows and DEP Bypass  
+## DEP Bypass  
 
 
 
-## Stack Overflows and ASLR Bypass
+## ASLR Bypass
 
 http://www.corelan.be/index.php/2009/09/21/exploit-writing-tutorial-part-6-bypassing-stack-cookies-safeseh-hw-dep-and-aslr/
 
 
-## Overwriting EIP with Format Strings
+## Overwriting EIP
 
 https://captmeelo.com/exploitdev/osceprep/2018/06/27/vulnserver-trun.html
 
