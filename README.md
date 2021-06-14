@@ -118,12 +118,18 @@ http://sh3llc0d3r.com/windows-reverse-shell-shellcode-i/
 
 ## DEP Bypass  
 
+https://medium.com/cybersecurityservices/dep-bypass-using-rop-chains-garima-chopra-e8b3361e50ce
+
+https://cwinfosec.org/Intro-ROP-DEP-Bypass/
 
 
 ## ASLR Bypass
 
 http://www.corelan.be/index.php/2009/09/21/exploit-writing-tutorial-part-6-bypassing-stack-cookies-safeseh-hw-dep-and-aslr/
 
+https://www.exploit-db.com/docs/english/17914-bypassing-aslrdep.pdf
+
+https://www.ccn-cert.cni.es/pdf/documentos-publicos/xi-jornadas-stic-ccn-cert/2575-m11-06-rockandropeando/file.html
 
 ## Overwriting EIP
 
@@ -136,7 +142,9 @@ https://www.youtube.com/watch?v=IOjl3tU1Ht8
 
 ## ROP chains and Rop playloads decoders
 
+https://scholars.unh.edu/cgi/viewcontent.cgi?article=2376&context=thesis
 
+https://www.crowdstrike.com/blog/analysis-cve-2013-3906-exploit/
 
 
 
