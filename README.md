@@ -36,7 +36,11 @@ Python 3: https://youtube.com/playlist?list=PLBf0hzazHTGM_dncTqO9l-0zUQYP0nNPU
 
 Bash: https://www.youtube.com/watch?v=smbeKPDVs2I
 
-x86 Assembly: https://youtu.be/HgEGAaYdABA
+Assembly Language: 
+
+https://youtu.be/HgEGAaYdABA
+https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf
+http://www.securitytube.net/groups?operation=view&groupId=6
 
 C: https://youtu.be/KJgsSFOSQv0
 
@@ -71,23 +75,26 @@ Intro Exploiting 1: https://www.fuzzysecurity.com/tutorials/expDev/1.html
 
 Intro Exploiting 2: https://www.fuzzysecurity.com/tutorials/expDev/2.html
 
-Intro Exploiting 3: 
+Intro Exploiting 3: http://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+
+Intro Exploiting 3: https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/
 
 ## Exploiting SEH Overflows
 
-
+https://www.fuzzysecurity.com/tutorials/expDev/3.html
+https://www.corelan.be/index.php/2009/07/28/seh-based-exploit-writing-tutorial-continued-just-another-example-part-3b/
 
 ## Introduction to IDA Pro
 
-
+https://resources.infosecinstitute.com/topic/basics-of-ida-pro-2/
 
 ## Egghunters
 
-
+http://www.fuzzysecurity.com/tutorials/expDev/4.html
 
 ## Custom Shellcode
 
-
+http://www.hick.org/code/skape/papers/win32-shellcode.pdf
 
 ## Stack Overflows and DEP Bypass  
 
@@ -100,7 +107,7 @@ Intro Exploiting 3:
 ## Overwriting EIP with Format Strings
 
 
-
+## ROP chains and Rop playloads decoders
 
 
 
