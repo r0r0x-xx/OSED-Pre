@@ -48,7 +48,9 @@ Win register: https://docs.microsoft.com/en-us/troubleshoot/windows-server/perfo
 
 ## Reverse Engineering
 
-Introduction To Reverse Engineering | Beginners: https://youtube.com/playlist?list=PLMB3ddm5Yvh3gf_iev78YP5EPzkA3nPdL
+Introduction To Reverse Engineering | Beginners: 
+
+https://youtube.com/playlist?list=PLMB3ddm5Yvh3gf_iev78YP5EPzkA3nPdL
 
 Training By Ricardo Narvaja: 
 
