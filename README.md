@@ -39,7 +39,9 @@ Bash: https://www.youtube.com/watch?v=smbeKPDVs2I
 Assembly Language: 
 
 https://youtu.be/HgEGAaYdABA
+
 https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf
+
 http://www.securitytube.net/groups?operation=view&groupId=6
 
 C: https://youtu.be/KJgsSFOSQv0
@@ -82,7 +84,13 @@ Intro Exploiting 3: https://www.corelan.be/index.php/2009/07/23/writing-buffer-o
 ## Exploiting SEH Overflows
 
 https://www.fuzzysecurity.com/tutorials/expDev/3.html
+
 https://www.corelan.be/index.php/2009/07/28/seh-based-exploit-writing-tutorial-continued-just-another-example-part-3b/
+
+https://www.securitysift.com/windows-exploit-development-part-6-seh-exploits/
+
+http://www.corelan.be/index.php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/
+
 
 ## Introduction to IDA Pro
 
@@ -92,9 +100,21 @@ https://resources.infosecinstitute.com/topic/basics-of-ida-pro-2/
 
 http://www.fuzzysecurity.com/tutorials/expDev/4.html
 
+https://www.securitysift.com/windows-exploit-development-part-5-locating-shellcode-egghunting/
+
+
 ## Custom Shellcode
 
 http://www.hick.org/code/skape/papers/win32-shellcode.pdf
+
+https://www.securitysift.com/windows-exploit-development-part-4-locating-shellcode-jumps/
+
+http://www.corelan.be/index.php/2010/02/25/exploit-writing-tutorial-part-9-introduction-to-win32-shellcoding/
+
+http://www.fuzzysecurity.com/tutorials/expDev/6.html
+
+http://sh3llc0d3r.com/windows-reverse-shell-shellcode-i/
+
 
 ## Stack Overflows and DEP Bypass  
 
@@ -102,9 +122,16 @@ http://www.hick.org/code/skape/papers/win32-shellcode.pdf
 
 ## Stack Overflows and ASLR Bypass
 
+http://www.corelan.be/index.php/2009/09/21/exploit-writing-tutorial-part-6-bypassing-stack-cookies-safeseh-hw-dep-and-aslr/
 
 
 ## Overwriting EIP with Format Strings
+
+https://captmeelo.com/exploitdev/osceprep/2018/06/27/vulnserver-trun.html
+
+https://h0mbre.github.io/Boofuzz_to_EIP_Overwrite/#
+
+https://www.youtube.com/watch?v=IOjl3tU1Ht8
 
 
 ## ROP chains and Rop playloads decoders
