@@ -29,6 +29,7 @@ I am currently in the process of preparing for certification (I will update this
 * [Stack Overflows and ASLR Bypass](#ASLR-Bypass)
 * [Overwriting EIP with Format Strings](#Overwriting-EIP)
 * [ROP chains and Rop playloads decoders](#ROP-chains-and-Rop-playloads-decoders)
+* [Practices and exercises] (#Practices-and-exercises)
 
 ## Programming languages
 
@@ -149,5 +150,5 @@ https://scholars.unh.edu/cgi/viewcontent.cgi?article=2376&context=thesis
 https://www.crowdstrike.com/blog/analysis-cve-2013-3906-exploit/
 
 
-
+## Practices and exercises
 
