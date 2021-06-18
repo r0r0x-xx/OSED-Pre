@@ -4,6 +4,8 @@ This is a repository of notes and material that I consider necessary in advance 
 
 This guide was born as a result of my interest in obtaining previous knowledge before eventuring the preparation course for the certification exam OSED.
 
+I am currently in the process of preparing for certification (I will update this repository) :D
+
              ########    #####   ########    #####   ##     ##  
              ##     ##  ##   ##  ##     ##  ##   ##   ##   ##   
              ##     ## ##     ## ##     ## ##     ##   ## ##      
